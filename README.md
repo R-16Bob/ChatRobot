@@ -58,5 +58,6 @@ ChatRobot/
 
 
 ## 未来计划
+1. 由于ConversationBufferMemory与ConversationChain预见将要在未来版本弃用，下一步将想办法将项目记忆迁移到LangGrahph.
 
 
